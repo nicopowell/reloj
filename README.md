@@ -17,7 +17,7 @@ En este ejercicio armé un reloj que muestra la hora en formato AM o PM
 En una terminal utilizar el siguiente comando
 
 ```
-git clone https://github.com/nicopowell/nicopowell-numero-magico.git
+git clone https://github.com/nicopowell/reloj.git
 ```
 
 ## Autores
